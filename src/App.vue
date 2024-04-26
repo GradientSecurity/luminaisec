@@ -124,6 +124,7 @@ body {
     font-weight: 400;
     line-height: 100%;
     color: #EBEBF8;
+    cursor: default;
 }
 
 .logo-grad {
